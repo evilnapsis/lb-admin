@@ -5,6 +5,7 @@
 <p>Lb Admin es un Kit gratuito para desarrollar aplicaciones web en PHP y MySQL usando el Framework Legobox.</p>
 <p>Dentro del Kit se incluyen ademas los siguientes plugins:</p>
 <ul>
+	<li>Class Upload PHP</li>
 	<li>Datatables</li>
 	<li>Morris Charts</li>
 	<li>Fullcalendar</li>

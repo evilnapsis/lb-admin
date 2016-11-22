@@ -1,0 +1,17 @@
+Author: evilnapsis
+Proyecto: lb-admin
+Fecha de Lanzamiento: 2016-11-22
+
+Hola como estas, gracias por la compra o descarga de este paquete, a continuacion te escribo las instrucciones de instalacion:
+
+1.- Copiar y descomprimir el archivo en la carpeta c:\xampp\htdocs, al final tendras una carpeta llamada “katana”, a la cual accederas desde el navegador como -> http://127.0.0.1/katana
+2.- Buscar el archivo schema.sql en katana/schema.sql, una vez localizado copiar y pegar el contenido en una ventana de MySQL, PHPMyAdmin o MySQL WorkBench
+3.- En caso de ser necesario modificar el archivo C:\xampp\htdocs\katana\admin\core\controller\Database.php para los datos asociados al acceso a la base de datos.
+
+Vista web: http://localhost/katana/
+Vista del administrador: http://localhost/katana/admin/
+Usuario: admin
+Password: admin
+
+Dudas y sugerencias a mi direccion email evilnapsis@gmail.com
+Powered By http://evilnapsis.com
